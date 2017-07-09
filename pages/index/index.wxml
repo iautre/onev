@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+  <view  class="onedata-image">
+    <image  src="{{onedata.photo}}" ></image>
+  </view>
+  <view class="onedata-text">
+    <text >{{onedata.text}}</text>
+  </view>
+  
+</view>

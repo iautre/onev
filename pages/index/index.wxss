@@ -1,0 +1,12 @@
+/**index.wxss**/
+.onedata-image {
+}
+
+.onedata-text {
+  margin: 20px auto;
+  width: 320px;
+  line-height:24px;
+}
+
+.onedata-audio {
+}
